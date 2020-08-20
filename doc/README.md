@@ -135,7 +135,7 @@ public class JwtWebFilter implements WebFilter {
 
 ### 4. 测试
 
-+ 输入不争取的token
++ 输入不正确的token
 
 ![image-20200820182009359](README.assets/image-20200820182009359.png)
 
@@ -147,4 +147,5 @@ public class JwtWebFilter implements WebFilter {
 
 ## 代码：
 
-github
+[github](https://github.com/ffzs/webflux_jwt_redis)
+[gitee](https://gitee.com/ffzs/webflux_jwt_redis)
